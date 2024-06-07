@@ -67,3 +67,9 @@ footer a{
 nav a:hover{
     color: green;
 }  
+h5{
+    color: palevioletred;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
